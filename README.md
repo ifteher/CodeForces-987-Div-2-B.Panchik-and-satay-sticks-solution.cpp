@@ -1,0 +1,1 @@
+# CodeForces-987-Div-2-B.Panchik-and-satay-sticks-solution.cpp
